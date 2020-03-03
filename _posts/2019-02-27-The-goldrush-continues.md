@@ -24,7 +24,7 @@ The question I wanted to answer was this: which sequences that include emails ha
 
 # The Data
 
-The data I decided to use came entirely from my sales team and is comprised of over 15,000 emails sent out across 26 different sequences. Each sequence has different messaging, timing, and other tasks associated with the emails (such as phone calls and LinkedIn messages), but for this analysis, we are focusing entirely on the consistency of the email reply rates as our measure of success.
+[The data](https://github.com/ndow33/ndow33.github.io/blob/master/lambda_unit1_build/USE_2user-sequences-report-12_01_2019-02_22_2020%20-%20USE_user-sequences-report-12_01_2019-02_22_2020.csv) I decided to use came entirely from my sales team and is comprised of over 15,000 emails sent out across 26 different sequences. Each sequence has different messaging, timing, and other tasks associated with the emails (such as phone calls and LinkedIn messages), but for this analysis, we are focusing entirely on the consistency of the email reply rates as our measure of success.
 
 ## Visual 1: The mess
 
