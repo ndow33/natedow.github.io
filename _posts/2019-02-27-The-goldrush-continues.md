@@ -50,4 +50,4 @@ Perhaps the most impactful insight that I gained from this analysis was just how
 
 # Thanks!
 
-Well, that’s all I have for now. I appreciate you taking the time to read through this post! If you have any questions or just want to connect, feel free to connect with me on LinkedIn!
+Well, that’s all I have for now. I appreciate you taking the time to read through this post! If you have any questions or just want to connect, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nathan-dow-42a846148/)!
