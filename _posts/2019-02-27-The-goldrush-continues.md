@@ -26,23 +26,23 @@ The question I wanted to answer was this: which sequences that include emails ha
 
 The data I decided to use came entirely from my sales team and is comprised of over 15,000 emails sent out across 26 different sequences. Each sequence has different messaging, timing, and other tasks associated with the emails (such as phone calls and LinkedIn messages), but for this analysis, we are focusing entirely on the consistency of the email reply rates as our measure of success.
 
-# Visual 1: The mess
+## Visual 1: The mess
 
 ![Initial Graph](https://raw.githubusercontent.com/ndow33/ndow33.github.io/master/lambda_unit1_build/unfiltered%20reply%20rates.PNG){: .center-block :}
 
 When plotted all together, the data is messy as well as misleading. Not only are the sequence names difficult to read, but some of these sequences have only been used to send 10 emails while others have been used to send 8,000. Let’s filter out the sequences that have been used to send less than 100 emails. 
 
-# Visual 2: The better mess
+## Visual 2: The better mess
 
 ![Graph](https://raw.githubusercontent.com/ndow33/ndow33.github.io/master/lambda_unit1_build/Reply%20Rates%20by%20Sequence.PNG){: .center-block :}
 
 After filtering out the sequences with less than 100 emails sent, the bar graph is a bit better, but still could use some improvement. Since we just want to see the sequences that performed the best, let’s plot only the sequences that had an above-average reply rate and see what we find.
 
-# Visual 3: The one graph to rule them all
+## Visual 3: The one graph to rule them all
 
 ![Top Performers](https://raw.githubusercontent.com/ndow33/ndow33.github.io/master/lambda_unit1_build/top%20sequences.PNG){: .center-block :}
 
-That’s more like it! 
+That’s more like it! Now we can clearly see which sequences outperformed the average as well as which sequences outperformed the rest.
 
 # Insights
 
