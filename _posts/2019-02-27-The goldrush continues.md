@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The goldrush continues...
+title: The goldrush continues
 ---
 
 #A quick story about prospecting for gold and how it relates to prospecting for potential clients
