@@ -33,7 +33,7 @@ The question I wanted to answer was this: which sequences that include emails ha
 
 ![Initial Graph](https://raw.githubusercontent.com/ndow33/ndow33.github.io/master/lambda_unit1_build/unfiltered%20reply%20rates.PNG){: .center-block :}
 
-
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://ndow33.github.io/plotly/graph%201.html" height="525" width="100%"></iframe>
 
 
 When plotted all together, the data is messy as well as misleading. Not only are the sequence names difficult to read, but some of these sequences have only been used to send 10 emails while others have been used to send 8,000. Let’s filter out the sequences that have been used to send less than 100 emails. 
