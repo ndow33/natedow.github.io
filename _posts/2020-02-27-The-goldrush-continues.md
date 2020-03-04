@@ -38,7 +38,7 @@ When plotted all together, the data is messy as well as misleading. Not only are
 
 ## Visual 2: The better mess
 
-![Graph](https://raw.githubusercontent.com/ndow33/ndow33.github.io/master/lambda_unit1_build/Reply%20Rates%20by%20Sequence.PNG){: .center-block :}
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://ndow33.github.io/plotly/filtered_bar.html" height="525" width="100%"></iframe>
 
 After filtering out the sequences with less than 100 emails sent, the bar graph is a bit better, but still could use some improvement. Since we just want to see the sequences that performed the best, let’s plot only the sequences that had an above-average reply rate and see what we find.
 
