@@ -31,20 +31,20 @@ The question I wanted to answer was this: which sequences that include emails ha
 
 ## Visual 1: The mess
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://ndow33.github.io/plotly/graph%201.html" height="750" width="500%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://ndow33.github.io/plotly/graph%201.html" height="750" width="150%"></iframe>
 
 
 When plotted all together, the data is messy as well as misleading. Not only are the sequence names difficult to read, but some of these sequences have only been used to send 10 emails while others have been used to send 8,000. Let’s filter out the sequences that have been used to send less than 100 emails. 
 
 ## Visual 2: The better mess
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://ndow33.github.io/plotly/filtered_bar.html" height="525" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://ndow33.github.io/plotly/filtered_bar.html" height="750" width="150%"></iframe>
 
 After filtering out the sequences with less than 100 emails sent, the bar graph is a bit better, but still could use some improvement. Since we just want to see the sequences that performed the best, let’s plot only the sequences that had an above-average reply rate and see what we find.
 
 ## Visual 3: The one graph to rule them all
 
-![Top Performers](https://raw.githubusercontent.com/ndow33/ndow33.github.io/master/lambda_unit1_build/top%20sequences.PNG){: .center-block :}
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://ndow33.github.io/plotly/top_sequences.html" height="750" width="150%"></iframe>
 
 That’s more like it! Now we can clearly see which sequences outperformed the average as well as which sequences outperformed the rest.
 
