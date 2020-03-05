@@ -33,6 +33,8 @@ The question I wanted to answer was this: which sequences that include emails ha
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://ndow33.github.io/plotly/graph%201.html" height="750" width="150%"></iframe>
 
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ndow33/3/#/" height="750" width="150%"></iframe>
+
 
 When plotted all together, the data is messy as well as misleading. Not only are the sequence names difficult to read, but some of these sequences have only been used to send 10 emails while others have been used to send 8,000. Let’s filter out the sequences that have been used to send less than 100 emails. 
 
