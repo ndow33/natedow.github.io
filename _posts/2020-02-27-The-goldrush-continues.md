@@ -44,9 +44,9 @@ After filtering out the sequences with less than 100 emails sent, the bar graph 
 
 ## Visual 3: The one graph to rule them all
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ndow33/7/#/" height="750" width="150%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ndow33/14/#/" height="750" width="150%"></iframe>
 
-That’s more like it! Now we can clearly see which sequences outperformed the average as well as which sequences outperformed the rest.
+That’s more like it! Now we can clearly see which sequences outperformed the average as well as which sequences had the best reply rate in descending order from best to worst.
 
 # Insights
 
