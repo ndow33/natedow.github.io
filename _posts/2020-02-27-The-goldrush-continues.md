@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The goldrush continues
-image: /img/hello_world.jpeg
+image: /img/gold.jpeg
 ---
 
 # A quick story about prospecting...
