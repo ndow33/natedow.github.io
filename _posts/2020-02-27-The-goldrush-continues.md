@@ -55,7 +55,3 @@ Perhaps the most impactful insight that I gained from this analysis was just how
 Well, that’s all I have for now. I appreciate you taking the time to read through this post! If you have any questions or just want to connect, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nathan-dow-42a846148/)!
 
 
-
-
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://ndow33.github.io/example/Example.html" height="525" width="100%"></iframe>
-
