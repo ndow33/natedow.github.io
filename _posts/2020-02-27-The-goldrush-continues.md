@@ -47,7 +47,7 @@ That’s more like it! Now we can clearly see which sequences outperformed the a
 
 # Insights
 
-Perhaps the most impactful insight that I gained from this analysis was just how effective the “US SDR - Referral Sequence - Q120” is. With a reply rate of nearly 14%, it nearly doubles the reply rate of the next closest sequence and more than quadruples the average reply rate of just under 3%. This sequence includes both phone calls and emails, but what sets this sequence apart from the others is the fact that the people who are contacted through it are referred to us by people within their organization. To me, this shows just how effective asking for a reference can be and will definitely be something that I discuss with my team.
+Perhaps the most impactful insight that I gained from this analysis was just how effective the “US SDR - Referral Sequence - Q120” is. With a reply rate of nearly 14%, it nearly doubles the reply rate of the next closest sequence and more than quadruples the average reply rate of just under 3%. This sequence includes both phone calls and emails, but what sets this sequence apart from the others is the fact that the people who are contacted through it are referred to us by people within their organization. To me, this shows just how effective asking for a reference can be and will definitely be something that I discuss with my team. To see other visualizations that I'll be sharing with my team for other sequence related insights, click [here](https://ndow33.github.io/2020-03-07-Sequence-visualizations/).
 
 # Thanks!
 
