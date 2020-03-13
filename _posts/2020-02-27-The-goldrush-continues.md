@@ -26,7 +26,7 @@ The question I wanted to answer was this: which sequences that include emails ha
 
 [The data](https://github.com/ndow33/ndow33.github.io/blob/master/lambda_unit1_build/USE_2user-sequences-report-12_01_2019-02_22_2020%20-%20USE_user-sequences-report-12_01_2019-02_22_2020.csv) I decided to use came entirely from my sales team and is comprised of over 55,000 emails sent out across 26 different sequences. Each sequence has different messaging, timing, and other tasks associated with the emails (such as phone calls and LinkedIn messages), but for this analysis, we will be focusing on email reply rates, email open rates, and a metric I call the "true" reply rate.
 
-## Visual 1: The one graph to rule them all
+# Visual 1: Best Sequences by Reply Rate
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ndow33/14/#/" height="750" width="150%"></iframe>
 
