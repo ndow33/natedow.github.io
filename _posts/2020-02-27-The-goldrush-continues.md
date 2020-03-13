@@ -24,33 +24,20 @@ The question I wanted to answer was this: which sequences that include emails ha
 
 # The Data
 
-[The data](https://github.com/ndow33/ndow33.github.io/blob/master/lambda_unit1_build/USE_2user-sequences-report-12_01_2019-02_22_2020%20-%20USE_user-sequences-report-12_01_2019-02_22_2020.csv) I decided to use came entirely from my sales team and is comprised of over 55,000 emails sent out across 26 different sequences. Each sequence has different messaging, timing, and other tasks associated with the emails (such as phone calls and LinkedIn messages), but for this analysis, we are focusing entirely on the consistency of the email reply rates as our measure of success.
+[The data](https://github.com/ndow33/ndow33.github.io/blob/master/lambda_unit1_build/USE_2user-sequences-report-12_01_2019-02_22_2020%20-%20USE_user-sequences-report-12_01_2019-02_22_2020.csv) I decided to use came entirely from my sales team and is comprised of over 55,000 emails sent out across 26 different sequences. Each sequence has different messaging, timing, and other tasks associated with the emails (such as phone calls and LinkedIn messages), but for this analysis, we will be focusing on email reply rates, email open rates, and a metric I call the "true" reply rate.
 
-## Visual 1: The mess
-
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ndow33/3/#/" height="750" width="150%"></iframe>
-
-
-When plotted all together, the data is messy as well as misleading. Not only are the sequence names difficult to read, but some of these sequences have only been used to send 10 emails while others have been used to send 8,000. Let’s filter out the sequences that have been used to send less than 100 emails. 
-
-## Visual 2: The better mess
-
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ndow33/10/#/" height="750" width="150%"></iframe>
-
-After filtering out the sequences with less than 100 emails sent, the bar graph is a bit better, but still could use some improvement. Since we just want to see the sequences that performed the best, let’s plot only the sequences that had an above-average reply rate and see what we find.
-
-## Visual 3: The one graph to rule them all
+## Visual 1: The one graph to rule them all
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ndow33/14/#/" height="750" width="150%"></iframe>
 
-That’s more like it! Now we can clearly see which sequences outperformed the average as well as which sequences had the best reply rate in descending order from best to worst.
+This visualization shows the 12 best performing sequences by reply rate that also have sent at least 100 emails. The blue line that goes across the bars represents the average reply rate across all sequences. Now we can clearly see which sequences outperformed the average as well as which sequences had the best reply rate in descending order from best to worst.
 
 # Insights
 
-Perhaps the most impactful insight that I gained from this analysis was just how effective the “US SDR - Referral Sequence - Q120” is. With a reply rate of nearly 14%, it nearly doubles the reply rate of the next closest sequence and more than quadruples the average reply rate of just under 3%. This sequence includes both phone calls and emails, but what sets this sequence apart from the others is the fact that the people who are contacted through it are referred to us by people within their organization. To me, this shows just how effective asking for a reference can be and will definitely be something that I discuss with my team. To see other visualizations that I'll be sharing with my team for other sequence related insights, click [here](https://ndow33.github.io/2020-03-07-Sequence-visualizations/).
+Perhaps the most impactful insight that I gained from this analysis was just how effective the “US SDR - Referral Sequence - Q120” is. With a reply rate of nearly 14%, it nearly doubles the reply rate of the next closest sequence and more than quadruples the average reply rate of just under 3%. This sequence includes both phone calls and emails, but what sets this sequence apart from the others is the fact that the people who are contacted through it are referred to us by people within their organization. To me, this shows just how effective asking for a reference can be and will definitely be something that I discuss with my team. 
 
 # Thanks!
 
-Well, that’s all I have for now. I appreciate you taking the time to read through this post! If you have any questions or just want to connect, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nathan-dow-42a846148/)!
+Well, that’s all I have for now. I appreciate you taking the time to read through this post! If you have any questions or just want to connect, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nathan-dow-42a846148/)! To see other visualizations that I'll be sharing with my team for other sequence related insights, click [here](https://ndow33.github.io/2020-03-07-Sequence-visualizations/).
 
 
