@@ -2,7 +2,7 @@
 layout: post
 title: The goldrush continues
 subtitle: A data visualization of prospecting
-bigimg: /img/path.jpg
+bigimg: /img/gold_scale.jpg
 ---
 
 # A quick story about prospecting...
