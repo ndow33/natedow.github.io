@@ -65,12 +65,14 @@ The general trend is simple: the higher the open rate, the higher the reply rate
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ndow33/32/#/" height="750" width="150%"></iframe>
 
-This visualization shows the relationship between open rates and reply rates through a metric I call the "true" reply rate. This metric shows how likely a prospect is to reply to an email given they have opened it. The blue line that goes across the graph represents the average true reply rate across all sequences.
+This visualization shows the relationship between open rates and reply rates through a metric I call the "true" reply rate. It shows how likely a prospect is to reply to an email given they have opened it. The blue line that goes across the graph represents the average true reply rate across all sequences. This is a feature that I engineered using the data from the total opens and replies for each sequence.
 
 ## Insights
 
+The insights gained from this graph are similar to those gained from the previous scatter-plot: sequences that have a low true reply rate are sequences that could probably use some adjustments in their messaging while those with a high true reply rate can be used as models for other sequences.
+
 ## Thanks!
 
-Well, that’s all I have for now. I appreciate you taking the time to read through this post! If you have any questions or just want to connect, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nathan-dow-42a846148/)! To see other visualizations that I'll be sharing with my team for other sequence related insights, click [here](https://ndow33.github.io/2020-03-07-Sequence-visualizations/).
+Well, that’s all I have for now. I appreciate you taking the time to read through this post! If you have any questions or just want to connect, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nathan-dow-42a846148/)!
 
 
