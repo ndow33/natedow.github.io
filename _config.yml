@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Nate Dow's Portfolio Website
+title: Nate Dow: Portfolio
 
 # Short description of your site
 description: Some projects and artifacts to showcase my skills
@@ -21,6 +21,8 @@ description: Some projects and artifacts to showcase my skills
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Interests: 
+    - FOREX: "https://www.tradingview.com/"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
