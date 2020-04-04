@@ -14,13 +14,12 @@ My name is Nate Dow and I:
 
 What I do:
 - I take data and make it valuable for organizations by organizing, processing, and telling a story with it. 
-- I pursue excellence daily
 
 Why I do it:
-- I do what I do because it makes me feel fulfilled. I love solving problems! I think that there are exciting challenges that can be solved through the application of data science. 
+- I do what I do because it makes me feel fulfilled. I love solving problems! There are exciting challenges that can be solved through the application of data science and I want to be apart of that. 
 
 Why I love what I do:
-- I love the intersection of math and application within data science. Taking a real world problem and breaking it down into data is interesting. It get's really exciting as you rebuild and reshape the data into something new and meaningful that can add valuable insights and ultimately guide decisions in the future to solve those same real world problems you began with. It's great fun! 
+- I love the intersection of math and real world application that lies within data science. Taking a real world problem and breaking it down into data is interesting. It get's really exciting as you rebuild and reshape the data into something new and meaningful that can add valuable insights and ultimately guide decisions in the future to solve those same real world problems you began with. It's great fun! 
 
 ### Contact Info
 
