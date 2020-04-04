@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: But please, feel free to reach out so I can learn about you
 ---
 
 My name is Nate Dow and I:
