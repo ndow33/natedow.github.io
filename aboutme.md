@@ -3,6 +3,12 @@ layout: page
 title: About me
 ---
 
+### Contact Info
+
+- Cell: +1(801)-910-5856
+- Email: ndow33@gmail.com 
+- LinkedIn: [Nate Dow](https://www.linkedin.com/in/nathan-dow-42a846148/)
+
 My name is Nate Dow and I:
 
 - Am passionate about becoming an amazing data scientist
