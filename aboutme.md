@@ -19,6 +19,7 @@ title: About me
 - I love the intersection of math and real world application that lies within data science. Taking a real world problem and breaking it down into data is interesting. It get's really exciting as you rebuild and reshape the data into something new and meaningful that can add valuable insights and ultimately guide decisions in the future to solve those same real world problems you began with. It's great fun! 
 
 ### Skills
+- Sales/Marketing background
 - Python
 - Data Wrangling
 - Data Cleaning
