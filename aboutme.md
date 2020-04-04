@@ -34,6 +34,4 @@ title: About me
 
 ### Contact Info
 
-Cell: +1(801)-910-5856
-Email: ndow33@gmail.com 
-LinkedIn: [Nate Dow](https://www.linkedin.com/in/nathan-dow-42a846148/)
+Cell: +1(801)-910-5856      Email: ndow33@gmail.com       LinkedIn: [Nate Dow](https://www.linkedin.com/in/nathan-dow-42a846148/)
