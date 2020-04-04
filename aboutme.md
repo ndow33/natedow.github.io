@@ -9,7 +9,6 @@ title: About me
 - Email: ndow33@gmail.com 
 - LinkedIn: [Nate Dow](https://www.linkedin.com/in/nathan-dow-42a846148/)
 
-
 ### What I do:
 - I take data and make it valuable for organizations by organizing, processing, and telling a story with it. 
 
@@ -18,6 +17,13 @@ title: About me
 
 ### Why I love what I do:
 - I love the intersection of math and real world application that lies within data science. Taking a real world problem and breaking it down into data is interesting. It get's really exciting as you rebuild and reshape the data into something new and meaningful that can add valuable insights and ultimately guide decisions in the future to solve those same real world problems you began with. It's great fun! 
+
+### Skills
+- Python
+- Data Wrangling
+- Data Cleaning
+- Data Visualization/Storytelling
+- Predictive Modeling
 
 ### More about me
 - I currently work for an ed-tech company called GO1 as a member of their sales team
