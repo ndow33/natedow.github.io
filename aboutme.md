@@ -31,7 +31,3 @@ title: About me
 - Am a data scientist in the making thanks to Lambda School
 - Enjoy dabbling in the FOREX market
 - Love to learn (you can check out my website, "practical", [here](https://ndow33.wixsite.com/practical))
-
-### Contact Info
-
-Cell: +1(801)-910-5856      Email: ndow33@gmail.com       LinkedIn: [Nate Dow](https://www.linkedin.com/in/nathan-dow-42a846148/)
