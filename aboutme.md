@@ -7,7 +7,7 @@ title: About me
 
 - Cell: +1(801)-910-5856
 - Email: ndow33@gmail.com 
-- LinkedIn: [Nate Dow](www.linkedin.com/in/nate-dow)
+- LinkedIn: [Nate Dow](https://www.linkedin.com/in/nate-dow/)
 
 ### What I do:
 - I take data and make it valuable for organizations by organizing, processing, and telling a story with it. 
