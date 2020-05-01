@@ -34,7 +34,8 @@ After converting the spreadsheet into a CSV file, we would turn it into a data f
 Once in this form, we can collaborate with the business to engineer features that would provide valuable insights such as:
 
 ### Leftover food by month
-Graph
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ndow33/123/#/" height="750" width="150%"></iframe>
 
 ### Leftover food by day
 
@@ -45,12 +46,17 @@ Graph
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ndow33/120/#/" height="750" width="150%"></iframe>
 
 ### Lost revenue by month
+
 Graph
 
 ### Lost revenue by day
-Graph
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ndow33/126/#/" height="750" width="150%"></iframe>
 
 ### Total lost revenue
-Graph
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ndow33/130/#/" height="750" width="150%"></iframe>
+
+
 
 These insights, along with others, could help businesses understand how much they’re wasting in order to help them reduce their waste. Until that waste is reduced, they can feel good knowing that the people collecting the data are in need of the food they would otherwise be throwing out.
