@@ -37,10 +37,12 @@ Once in this form, we can collaborate with the business to engineer features tha
 Graph
 
 ### Leftover food by day
-Graph
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ndow33/117/#/" height="750" width="150%"></iframe>
 
 ### Total leftover food
-Graph
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ndow33/120/#/" height="750" width="150%"></iframe>
 
 ### Lost revenue by month
 Graph
