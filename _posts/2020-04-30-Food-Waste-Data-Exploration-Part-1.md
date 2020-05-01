@@ -2,7 +2,7 @@
 layout: post
 title: Food Waste Data Exploration Part 1
 subtitle: Sample Dataset 
-bigimg: /img/finance.jpg
+bigimg: /img/veggies.jpeg
 ---
 
 ## What: 
