@@ -47,7 +47,7 @@ Once in this form, we can collaborate with the business to engineer features tha
 
 ### Lost revenue by month
 
-Graph
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ndow33/132/#/" height="750" width="150%"></iframe>
 
 ### Lost revenue by day
 
@@ -59,4 +59,4 @@ Graph
 
 
 
-These insights, along with others, could help businesses understand how much they’re wasting in order to help them reduce their waste. Until that waste is reduced, they can feel good knowing that the people collecting the data are in need of the food they would otherwise be throwing out.
+While these graphs are simple rough drafts, these insights, along with others, could help businesses understand how much they’re wasting in order to help them reduce their waste. Until that waste is reduced, they can feel good knowing that the people collecting the data are in need of the food they would otherwise be throwing out.
