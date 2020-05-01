@@ -5,48 +5,50 @@ subtitle: Sample Dataset
 bigimg: /img/finance.jpg
 ---
 
-## A Brief Introduction
+## What: 
 
-One of my interests that pushed me toward data science is Forex trading. For more information about what the Forex market is, you can click [here](https://www.investopedia.com/articles/forex/11/why-trade-forex.asp).
+This project is one that focuses on my idea to use data in order to incentivize businesses to reduce the amount of food they waste by tracking that food and redistributing it to those who could use it. 
 
-To me, one of the most fascinating parts of the Forex market is the idea of algorithmic trading. In a nutshell, algorithmic trading is just waiting to enter a trade until certain conditions in the market are met. What makes it special though is that a computer is judging whether or not those conditions are met. In theory, if you have an algorithmic trading system that’s really good, you can consistently make money while you sleep! An exciting possibility if you ask me.
+This post dives into a sample dataset of my own creation that shows some potential data features that could be collected through this process as well as some features that could potentially be engineered and the visualizations that businesses could use to understand what food they’re wasting and how much it’s costing them.
 
-So, to get into this world of algorithmic trading, I’ve learned a lot about a trading platform called [Metatrader5](https://www.metatrader5.com/) and a programming language called [MQL5](https://www.mql5.com/), a language syntax that closely resembles C++. MQL5 is used to code trading ‘bots’, so to speak. 
+## Why:
 
-Here is a sample of code that runs a simple bot that will enter buy and sell positions at random based on a randomly generated number:
+There is enough food for everyone but not everyone has enough food. According to the USDA, 37 million people struggle with hunger in the United States, yet in 2017, we disposed of 38.1 million tons of food. Figuring out how to capture and redistribute some of this wasted food seems like a problem worth solving.
 
-```
-#include<Trade\Trade.mqh>
+## How:
 
-CTrade trade;
+The idea is to have businesses work with individuals who are food insecure. These individuals would go to the business, weigh the would-be wasted food at the end of the day, input a few simple data points in a spreadsheet, and in turn, be able to use the food for themselves at no charge.
 
-input int TakeProfit = 100;
-input int StopLoss = 100;
-input int LotSizeFactor = 10000;
+The data entry that the individual would oversee might include the following:
+- The date
+- The day of the week
+- The type of food
+- The quantity of food leftover
+- The location of the business
+- The employee
 
-void OnTick()
-  {
-   //Calculate Lot Size
-   double LotSize = AccountInfoDouble(ACCOUNT_EQUITY)/LotSizeFactor;
-   LotSize = MathRound(LotSize);
-    
-   //Get a random integer to determine buy or sell   
-   int random = MathRand();
-   
-   double Ask = NormalizeDouble(SymbolInfoDouble(_Symbol,SYMBOL_ASK),_Digits);
-   double Bid = NormalizeDouble(SymbolInfoDouble(_Symbol,SYMBOL_BID),_Digits);
-   double Spread = Ask-Bid;
- 
-   if ((random%2 == 1) && (PositionsTotal()<1) && (OrdersTotal() == 0))
-      trade.Sell(LotSize,NULL,Bid,Bid + (StopLoss*_Point),Bid - (TakeProfit*_Point),NULL);
-     
-   if ((random%2 == 0) && (PositionsTotal()<1) && (OrdersTotal() == 0))
-      trade.Buy(LotSize,NULL,Ask,Ask - (StopLoss*_Point),Ask + (TakeProfit*_Point),NULL);
-  }
+After converting the spreadsheet into a CSV file, we would turn it into a data frame that looks something like this:
 
-```
-## In the future…
+Table1
 
-In the future, I will be posting more about algorithmic trading. I’ll be using this bot as the baseline bot to compare other bots’ performance. I will also be using this baseline bot to create sample data for future posts. 
+Once in this form, we can collaborate with the business to engineer features that would provide valuable insights such as:
 
-Thanks for reading!
+### Leftover food by month
+Graph
+
+### Leftover food by day
+Graph
+
+### Total leftover food
+Graph
+
+### Lost revenue by month
+Graph
+
+### Lost revenue by day
+Graph
+
+### Total lost revenue
+Graph
+
+These insights, along with others, could help businesses understand how much they’re wasting in order to help them reduce their waste. Until that waste is reduced, they can feel good knowing that the people collecting the data are in need of the food they would otherwise be throwing out.
