@@ -13,7 +13,7 @@ This post dives into a sample dataset of my own creation that shows some potenti
 
 ## Why:
 
-There is enough food for everyone but not everyone has enough food. According to the USDA, 37 million people struggle with hunger in the United States, yet in 2017, we disposed of 38.1 million tons of food. Figuring out how to capture and redistribute some of this wasted food seems like a problem worth solving.
+There is enough food for everyone but not everyone has enough food. According to the USDA, [37 million people](https://www.feedingamerica.org/hunger-in-america) struggle with hunger in the United States, yet in 2017 we disposed of [38.1 million tons of food](https://www.epa.gov/recycle/reducing-wasted-food-home). Figuring out how to capture and redistribute some of this wasted food seems like a problem worth solving.
 
 ## How:
 
@@ -29,7 +29,7 @@ The data entry that the individual would oversee might include the following:
 
 After converting the spreadsheet into a CSV file, we would turn it into a data frame that looks something like this:
 
-Table1
+![Sample Table](https://raw.githubusercontent.com/ndow33/ndow33.github.io/master/img/table1.PNG)
 
 Once in this form, we can collaborate with the business to engineer features that would provide valuable insights such as:
 
